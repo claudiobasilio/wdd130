@@ -1,0 +1,11 @@
+.grid-container {
+    background-color: #8cc1ec;
+    padding: 10px;
+}    
+.grid-item {
+    background-color: #dcebf8;
+    border: 1px solid #000000;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
