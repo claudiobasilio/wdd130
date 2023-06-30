@@ -192,7 +192,7 @@ main section img {
     grid-row: 5/8;
     width: 100%;
     box-shadow: 5px 5px 10px #23c9ff
-}
+}          
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
