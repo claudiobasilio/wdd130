@@ -1,0 +1,46 @@
+.content-ice {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.end {
+    display: flex;
+    grid-template-rows: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 25px 50px;
+    gap: 40px;
+}
+
+.title {
+    font-size: 1em;
+    text-align: center;
+    color: rgb(31, 52, 127);
+    margin-top: 25px;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: -10px; 
+}
+
+#ice-img {
+    width: 400px;
+}
+
+.text {
+    text-align: center;
+    width: 250px; 
+    color: rgb(88, 91, 94);
+    margin: -10 auto 0 auto;
+    font-size: 1.4em;
+}
+
+#ice {
+    height: 100px;
+}
+
